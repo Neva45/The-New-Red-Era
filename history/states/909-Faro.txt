@@ -1,0 +1,22 @@
+state={
+	id=909
+	name="STATE_909"
+	manpower=1
+
+	state_category=city
+
+	history={
+		owner = 
+		victory_points = {
+			
+		}
+		buildings = {
+		}
+	}
+
+	provinces={
+		3790 6880 13257 13258
+	}
+
+	local_supplies=0.0 
+}
