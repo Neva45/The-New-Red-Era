@@ -1,0 +1,4 @@
+IEU = {
+	color = rgb { 250 210 1 }
+	color_ui = rgb { 250 210 1 }
+}

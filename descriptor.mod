@@ -9,4 +9,4 @@ tags={
 	"Military"
 }
 name="The New Red Era"
-supported_version="1.12.12"
+supported_version="1.12.14"

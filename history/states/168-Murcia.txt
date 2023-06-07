@@ -3,7 +3,7 @@ state={
 	name="STATE_168"
 
 	history={
-		owner = SPR
+		owner = IEU
 		victory_points = {
 			10024 3
 		}
@@ -17,12 +17,11 @@ state={
 			}
 
 		}
-		add_core_of = SPR
 
 	}
 
 	provinces={
-		832 1093 3835 4195 7111 9903 10024 10109 11807 11812 11884 
+		 1093 4195 7111 9903 10024 10109
 	}
 	manpower=1007605
 	buildings_max_level_factor=1.000

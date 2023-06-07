@@ -1,4 +1,3 @@
-
 state={
 	id=165
 	name="STATE_165"
@@ -7,16 +6,9 @@ state={
 	state_category = large_city
 
 	history={
-		owner = SPR
-		add_core_of = CAT
+		owner = IEU
 		victory_points = {
 			9764 30
-		}
-		victory_points = {
-			6966 1
-		}
-		victory_points = {
-			6927 1
 		}
 		buildings = {
 			infrastructure = 4 #was: 7
@@ -27,11 +19,10 @@ state={
 				naval_base = 4
 			}
 		}
-		add_core_of = SPR
 	}
 
 	provinces={
-		854 872 897 3898 3899 6812 6836 6865 6927 6966 9764 9797 9824 11779 
+		854 6865 9764 9797 
 	}
 
 	local_supplies=0.0 

@@ -1,0 +1,23 @@
+state={
+	id=943
+	name="STATE_943"
+	manpower=1
+
+	state_category=city
+
+	history={
+		owner = IEU
+		victory_points = {
+			6734 3
+		} 
+		buildings = {
+
+		}
+	}
+
+	provinces={
+		     6734 9689
+	}
+
+	local_supplies=0.0 
+}

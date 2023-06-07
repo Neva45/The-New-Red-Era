@@ -1,0 +1,20 @@
+state={
+	id=929
+	name="STATE_929"
+	manpower=1
+
+	state_category=city
+
+	history={
+		owner = IEU
+		buildings = {
+
+		}
+	}
+
+	provinces={
+		  939 3845 9800
+	}
+
+	local_supplies=0.0 
+}
