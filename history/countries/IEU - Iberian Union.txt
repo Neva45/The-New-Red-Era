@@ -13,7 +13,7 @@ set_technology = {
 set_convoys = 140
 
 add_ideas = {
-	FRC_opd
+	IEU_opd
 }
 
 set_politics = {
