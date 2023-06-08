@@ -1,0 +1,10 @@
+spriteTypes = {	
+
+
+
+	spriteType = {
+		name = "GFX_idea_FRC_opd"
+		texturefile = "gfx/interface/ideas/idea_FRC_opd.dds"
+	}	
+	
+}

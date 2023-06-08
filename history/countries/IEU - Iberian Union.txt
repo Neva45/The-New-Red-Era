@@ -12,6 +12,9 @@ set_technology = {
 
 set_convoys = 140
 
+add_ideas = {
+	FRC_opd
+
 set_politics = {
  ruling_party = communism
  last_election = "1933.7.1"
