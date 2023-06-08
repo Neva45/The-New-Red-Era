@@ -14,6 +14,7 @@ set_convoys = 140
 
 add_ideas = {
 	FRC_opd
+}
 
 set_politics = {
  ruling_party = communism
