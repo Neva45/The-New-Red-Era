@@ -1,0 +1,36 @@
+state={
+	id=947
+	name="STATE_947"
+	manpower=1
+
+	state_category=city
+
+	history={
+		owner = FRC
+		victory_points = {
+			485 3
+		}
+		victory_points = {
+			9434 10
+		}
+		victory_points = {
+			11563 5
+		}
+		buildings = {
+			485= {
+				naval_base = 1
+			}
+			9434 = {
+				naval_base = 5
+				coastal_bunker = 1
+			}
+
+		}
+	}
+
+	provinces={
+		     485 3549 6569 9434 9578 11563
+	}
+
+	local_supplies=0.0 
+}

@@ -6,3 +6,13 @@
   IEU_communism:0 "Иберийский Союз"
   IEU_communism_DEF:0 "Иберийский Союз"
   IEU_communism_ADJ:0 "Иберийск."
+
+  #Франция
+  FRC_communism:0 "Французская Комунна"
+  FRC_communism_DEF:0 "Французская Комунна"
+  FRC_communism_ADJ:0 "Французск."
+
+  #Бенилюкс
+  BNL_communism:0 "Бенилюкс"
+  BNL_communism_DEF:0 "Бенилюкс"
+  BNL_communism_ADJ:0 "Бенилюкс."

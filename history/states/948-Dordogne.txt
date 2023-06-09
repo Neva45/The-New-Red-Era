@@ -1,0 +1,20 @@
+state={
+	id=948
+	name="STATE_948"
+	manpower=1
+
+	state_category=city
+
+	history={
+		owner = FRC
+		buildings = {
+
+		}
+	}
+
+	provinces={
+		     6775 6792 9751 9717 9734 11720
+	}
+
+	local_supplies=0.0 
+}
