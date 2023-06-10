@@ -1,4 +1,4 @@
-capital = 11506
+capital = 16
 
 oob = «FRC_1936»
 

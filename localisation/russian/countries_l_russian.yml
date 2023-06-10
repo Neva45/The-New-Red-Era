@@ -16,3 +16,8 @@
   BNL_communism:0 "Бенилюкс"
   BNL_communism_DEF:0 "Бенилюкс"
   BNL_communism_ADJ:0 "Бенилюкс."
+
+  #Ирландия
+  IRL_communism:0 "Ирландия"
+  IRL_communism_DEF:0 "Ирландия"
+  IRL_communism_ADJ:0 "Ирландкс."

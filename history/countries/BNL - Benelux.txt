@@ -1,4 +1,4 @@
-capital = 391
+capital = 7
 
 oob = «BNL_1936»
 
