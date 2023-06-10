@@ -1,3 +1,4 @@
 IEU = "countries/Iberian Union.txt"
 FRC = "countries/French Commune.txt"
 BNL = "countries/Benelux.txt"
+IRL = "countries/Ireland.txt"
