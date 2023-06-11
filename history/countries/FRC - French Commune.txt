@@ -29,3 +29,14 @@ set_popularities = {
  communism = 25
 neutrality = 25
 }
+
+create_country_leader = {
+	name = "Robert_Hue"
+	desc = "Robert_Hue.desc"
+	picture = "gfx/leaders/IRL/Robert_Hue.dds"
+	expire = "1950.8.9"
+	ideology = anti_revisionism
+	traits = {
+		#
+	}
+}

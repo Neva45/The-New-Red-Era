@@ -18,12 +18,12 @@ bookmarks = {
 		}
 		IRL = {
 			history = IRL_BLITZKRIEG_DESC
-			ideology = democratic
+			ideology = communism
 			ideas = {
-				№
+				IEU_opd
 			}
 			focuses = {
-				"
+				#
 			}
 		}
 		FRC = {

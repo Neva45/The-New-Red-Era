@@ -29,3 +29,14 @@ set_popularities = {
  communism = 25
 neutrality = 25
 }
+
+create_country_leader = {
+	name = "Eric_Meyer"
+	desc = "Eric_Meyer"
+	picture = "gfx/leaders/BNL/Eric_Meyer.dds"
+	expire = "1944.12.5"
+	ideology = anti_revisionism
+	traits = {
+		#
+	}
+}
