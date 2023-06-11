@@ -31,9 +31,9 @@ neutrality = 25
 }
 
 create_country_leader = {
-	name = "Samus_Healy"
-	desc = "Samus_Healy.desc"
-	picture = "gfx/leaders/BRI/Samus_Healy.dds"
+	name = "Nina_Temple"
+	desc = "Nina_Temple.desc"
+	picture = "gfx/leaders/BRI/Nina_Temple.dds"
 	expire = "1950.8.9"
 	ideology = anti_revisionism
 	traits = {

@@ -4,7 +4,7 @@ bookmarks = {
 		desc = "BLITZKRIEG_DESC"
 		date = 2000.1.1.12
 		picture = "GFX_select_date_1939"
-		default_country = "GER"
+		default_country = "IEU"
 	
 		IEU = {
 			history = IEU_BLITZKRIEG_DESC
