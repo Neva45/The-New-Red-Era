@@ -29,3 +29,14 @@ set_popularities = {
  communism = 25
 neutrality = 25
 }
+
+create_country_leader = {
+	name = "Samus_Healy"
+	desc = "Samus_Healy.desc"
+	picture = "gfx/leaders/BRI/Samus_Healy.dds"
+	expire = "1950.8.9"
+	ideology = anti_revisionism
+	traits = {
+		#
+	}
+}
