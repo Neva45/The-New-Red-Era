@@ -1,6 +1,6 @@
 capital = 7
 
-oob = «BNL_1936»
+oob = «BNL_2000»
 
 set_national_unity = 0.5
 

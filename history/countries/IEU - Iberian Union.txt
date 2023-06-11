@@ -1,6 +1,6 @@
 capital = 41
 
-oob = «IEU_1936»
+oob = «IEU_2000»
 
 set_national_unity = 0.5
 

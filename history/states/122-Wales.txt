@@ -10,16 +10,15 @@ state= {
 		aluminium=3 # was: 4
 	}
 
-	history=
-	{
-		owner = ENG
+	history={
+		owner = BRI
 		victory_points = {
 			407 3 #Swansea
 		}
 		victory_points = {
-			311 1 #Wrexham
+			377 5 
 		}
-		victory_points = { 377 5 }
+
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -27,13 +26,11 @@ state= {
 				naval_base = 3
 			}
 		}
-		add_core_of = ENG
-		add_core_of = WLS
 	}
 
-	provinces=
-	{
-253 311 377 407 3274 6363 9364 11361 	}
+	provinces={
+                                        377 407 	
+                     }
 
 	local_supplies=0.0 
 }

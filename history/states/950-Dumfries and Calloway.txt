@@ -1,0 +1,23 @@
+state={
+	id=950
+	name="STATE_950"
+	manpower=1
+
+	state_category=city
+
+	history={
+		owner = BRI
+		victory_points = {
+			11218 1 #Dumfries
+		}
+		buildings = {
+
+		}
+	}
+
+	provinces={
+		      6350 9350 11218
+	}
+
+	local_supplies=0.0 
+}

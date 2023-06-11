@@ -1,4 +1,3 @@
-
 state={
 	id=133
 	name="STATE_133" # Lanark
@@ -11,13 +10,9 @@ state={
 	}
 
 	history={
-		add_core_of = SCO
-		owner = ENG
+		owner = BRI
 		victory_points = {
 			3273 15
-		}
-		victory_points = {
-			11218 1 #Dumfries
 		}
 		buildings = {
 			infrastructure = 4 #was: 7
@@ -30,17 +25,10 @@ state={
 			}
 
 		}
-		add_core_of = ENG
-		1939.1.1 = {
-			buildings = {
-				dockyard = 5
-				industrial_complex = 2
-			}
-		}
 	}
 
 	provinces={
-		3273 6320 6350 6385 6395 9237 9350 11218 
+		 284 3273 3373 6320 6385 6395 9237 11161 13267
 	}
 
 	local_supplies=0.0 
