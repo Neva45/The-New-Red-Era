@@ -1,0 +1,22 @@
+state={
+	id=962
+	name="STATE_962"
+	manpower=1
+
+	state_category=city
+
+	history={
+		owner = GDR
+		victory_points = {
+			6521 50 
+		}
+		buildings = {
+		}
+	}
+
+	provinces={
+		     6521
+	}
+
+	local_supplies=0.0 
+}

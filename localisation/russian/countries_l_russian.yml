@@ -26,3 +26,8 @@
   BRI_communism:0 "Британия"
   BRI_communism_DEF:0 "Британия"
   BRI_communism_ADJ:0 "Британск."
+
+  #Германская Демократическая Республика
+  GDR_communism:0 "Германская Демократическая Республика"
+  GDR_communism_DEF:0 "Германская Демократическая Республика"
+  GDR_communism_ADJ:0 "ГДРовск."
