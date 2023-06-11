@@ -4,7 +4,7 @@ bookmarks = {
 		desc = "BLITZKRIEG_DESC"
 		date = 2000.1.1.12
 		picture = "GFX_select_date_1939"
-		default_country = "GER"
+		default_country = "IEU"
 	
 		IEU = {
 			history = IEU_BLITZKRIEG_DESC
@@ -47,18 +47,14 @@ bookmarks = {
 				#
 			}
 		}
-		ITA = {
-			history = ITA_BLITZKRIEG_DESC
-			ideology = fascism
+		BRI = {
+			history = BRI_BLITZKRIEG_DESC
+			ideology = communism
 			ideas={
-				vittorio_emanuele_albania_ethiopia
-				ITA_camicie_nere
-				ITA_pact_of_steel
+				IEU_opd
 			}
 			focuses = {
-				ITA_battaglioni_d_assalto
-				ITA_by_blood_alone
-				ITA_ferrea_mole_ferreo_cuore
+				#
 			}			
 		}
 		JAP = {
