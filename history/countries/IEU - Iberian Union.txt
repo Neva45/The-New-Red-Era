@@ -29,3 +29,14 @@ set_popularities = {
  communism = 25
 neutrality = 25
 }
+
+create_country_leader = {
+	name = "Julio_Anguita"
+	desc = "Julio_Anguita"
+	picture = "gfx/leaders/IEU/Julio_Anguita.dds"
+	expire = "1941.11.21"
+	ideology = anti_revisionism
+	traits = {
+		#
+	}
+}
