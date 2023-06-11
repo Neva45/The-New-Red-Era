@@ -30,7 +30,7 @@ bookmarks = {
 			history = FRC_BLITZKRIEG_DESC
 			ideology = communism
 			ideas = {
-				#
+				IEU_opd
 			}
 			focuses = {
 				#
@@ -41,7 +41,7 @@ bookmarks = {
 			history = BNL_BLITZKRIEG_DESC
 			ideology = communism
 			ideas = {
-				#
+				IEU_opd
 			}
 			focuses = {
 				#
