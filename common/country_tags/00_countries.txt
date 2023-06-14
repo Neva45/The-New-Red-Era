@@ -5,5 +5,4 @@ IRL = "countries/Ireland.txt"
 BRI = "countries/Britain.txt"
 GDR = "countries/German Democratic Republic.txt"
 PPR = "countries/Polish People's Republic.txt"
-
-USR = "countries/USR.txt"
+USR = "countries/Union of Soviet Socialist Republics.txt"
