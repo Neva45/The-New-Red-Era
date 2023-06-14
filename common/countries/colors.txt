@@ -18,3 +18,7 @@ BRI = {
 	color = rgb { 255 41 77 }
 	color_ui = rgb { 255 41 77 }
 }
+GDR = {
+	color = rgb { 155 45 48 }
+	color_ui = rgb { 155 45 48 }
+}
