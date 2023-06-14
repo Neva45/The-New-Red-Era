@@ -26,3 +26,8 @@ PPR = {
 	color = rgb { 255 192 203 }
 	color_ui = rgb { 255 192 203 }
 }
+
+USR = {
+	color = rgb {	125  13  24 }
+	color_ui = rgb { 125  13  24 }
+}
