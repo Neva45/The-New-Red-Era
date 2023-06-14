@@ -3,31 +3,36 @@
  #Европа
 
   #Иберия
-  IEU_communism:0 "Иберийский Союз"
-  IEU_communism_DEF:0 "Иберийский Союз"
-  IEU_communism_ADJ:0 "Иберийск."
+  IEU_LibSoc:0 "Иберийский Союз"
+  IEU_LibSoc_DEF:0 "Иберийский Союз"
+  IEU_LibSoc_ADJ:0 "Иберийск."
 
   #Франция
-  FRC_communism:0 "Французская Комунна"
-  FRC_communism_DEF:0 "Французская Комунна"
-  FRC_communism_ADJ:0 "Французск."
+  FRC_LibSoc:0 "Французская Комунна"
+  FRC_LibSoc_DEF:0 "Французская Комунна"
+  FRC_LibSoc_ADJ:0 "Французск."
 
   #Бенилюкс
-  BNL_communism:0 "Бенилюкс"
-  BNL_communism_DEF:0 "Бенилюкс"
-  BNL_communism_ADJ:0 "Бенилюкск."
+  BNL_LibSoc:0 "Бенилюкс"
+  BNL_LibSoc_DEF:0 "Бенилюкс"
+  BNL_LibSoc_ADJ:0 "Бенилюкск."
 
   #Ирландия
-  IRL_communism:0 "Ирландия"
-  IRL_communism_DEF:0 "Ирландия"
-  IRL_communism_ADJ:0 "Ирландск."
+  IRL_LibSoc:0 "Ирландия"
+  IRL_LibSoc_DEF:0 "Ирландия"
+  IRL_LibSoc_ADJ:0 "Ирландск."
 
   #Британия
-  BRI_communism:0 "Британия"
-  BRI_communism_DEF:0 "Британия"
-  BRI_communism_ADJ:0 "Британск."
+  BRI_LibSoc:0 "Британия"
+  BRI_LibSoc_DEF:0 "Британия"
+  BRI_LibSoc_ADJ:0 "Британск."
 
   #Германская Демократическая Республика
-  GDR_communism:0 "Германская Демократическая Республика"
-  GDR_communism_DEF:0 "Германская Демократическая Республика"
-  GDR_communism_ADJ:0 "ГДРовск."
+  GDR_Marxism:0 "Германская Демократическая Республика"
+  GDR_Marxism_DEF:0 "Германская Демократическая Республика"
+  GDR_Marxism_ADJ:0 "ГДРовск."
+
+  #Польская Народная Республика
+  PPR_Marxism:0 "Польская Народная Республика"
+  PPR_Marxism_DEF:0 "Польская Народная Республика"
+  PPR_Marxism_ADJ:0 "Польск."

@@ -11,7 +11,7 @@ state={
 
 	history={
 		
-		owner = 
+		owner = PPR
                                            victory_points = {
 			11467 5
 		}

@@ -22,3 +22,7 @@ GDR = {
 	color = rgb { 155 45 48 }
 	color_ui = rgb { 155 45 48 }
 }
+PPR = {
+	color = rgb { 255 192 203 }
+	color_ui = rgb { 255 192 203 }
+}
