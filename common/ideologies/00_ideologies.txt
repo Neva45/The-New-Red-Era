@@ -1,0 +1,557 @@
+ideologies = {
+
+	LeftDem = {
+
+		types = {
+
+			DemSoc = {
+			}
+
+			Progressivism = {
+			}
+
+			Green = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_LEFTDEM_1"
+			"FACTION_NAME_LEFTDEM_2"
+			"FACTION_NAME_LEFTDEM_3"
+			"FACTION_NAME_LEFTDEM_4"
+			"FACTION_NAME_LEFTDEM_5"
+			"FACTION_NAME_LEFTDEM_6"
+		}
+
+		color = { 0 0 255 }
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = yes
+			can_send_volunteers = no
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+
+		can_host_government_in_exile = yes
+
+		war_impact_on_world_tension = 0.25		
+		faction_impact_on_world_tension = 0.1
+
+		modifiers = {
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			# annex_cost_factor = 0.5 
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+			embargo_cost_factor = -0.5
+			embargo_threshold_factor = -0.5
+		}
+
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50
+		}
+		ai_democratic = yes # uses the democratic AI behaviour
+		ai_ideology_wanted_units_factor = 1.0
+	}
+
+
+	Liberalism = {
+
+		types = {
+
+			SocLib = {
+			}
+
+			ClasLib = {
+			}
+
+			AnKab = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_LIBERALISM_1"
+			"FACTION_NAME_LIBERALISM_2"
+			"FACTION_NAME_LIBERALISM_3"
+			"FACTION_NAME_LIBERALISM_4"
+			"FACTION_NAME_LIBERALISM_5"
+		}
+
+		color = { 255 0 0 }
+
+		war_impact_on_world_tension = 0.75
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes # uses the commie AI behaviour
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			# annex_cost_factor = 0.5 
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+			embargo_cost_factor = -0.5
+			embargo_threshold_factor = -0.5
+		}
+
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 
+		}
+		ai_democratic = yes # uses the democratic AI behaviour
+		ai_ideology_wanted_units_factor = 1.0 
+	}
+
+	RightDem = {
+
+		types = {
+
+			Conservatism = {
+			}
+
+			ConLib = {
+			}
+
+			Reactionary = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_RIGHTDEM_1"
+			"FACTION_NAME_RIGHTDEM_2"
+			"FACTION_NAME_RIGHTDEM_3"
+			"FACTION_NAME_RIGHTDEM_4"
+			"FACTION_NAME_RIGHTDEM_5"
+		}
+
+		color = { 150 75 0 }
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			# annex_cost_factor = 0.5 
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+			embargo_cost_factor = -0.5
+			embargo_threshold_factor = -0.5
+		}
+
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50
+		}
+		ai_democratic = yes
+		ai_ideology_wanted_units_factor = 1.0
+	}
+
+	Despotism = {
+
+		types = {
+
+			Oligarchism  = {
+			}
+
+			Hunta = {
+			}
+
+			AutorDem = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_DESPOTISM_1"
+			"FACTION_NAME_DESPOTISM_2"
+			"FACTION_NAME_DESPOTISM_3"
+			"FACTION_NAME_DESPOTISM_4"
+			"FACTION_NAME_DESPOTISM_5"
+		}
+
+		color = { 124 124 124 }
+
+
+		war_impact_on_world_tension = 0.25	
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = no
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.4
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+	}
+
+	
+	Monarchy = {
+
+		types = {
+
+			Absolutly  = {
+			}
+
+			dualism  = {
+			}
+
+			theokraty = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_MONARCHY_1"
+			"FACTION_NAME_MONARCHY_2"
+			"FACTION_NAME_MONARCHY_3"
+			"FACTION_NAME_MONARCHY_4"
+			"FACTION_NAME_MONARCHY_5"
+		}
+
+		color = { 124 124 124 }
+
+
+		war_impact_on_world_tension = 0.25
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.4
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes 
+		ai_ideology_wanted_units_factor = 1.15
+	}
+	
+	Nationalism = {
+
+		types = {
+
+			Fascism = {
+			}
+
+			Nazism = {
+			}
+
+			Graz_naz = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+		}
+
+		color = { 150 75 0 }
+
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_cost_factor = 1
+		}
+
+		ai_fascist = yes
+		ai_ideology_wanted_units_factor = 1.65
+	}
+	
+	LibSoc = {
+
+		types = {
+
+			EuroCom = {
+			}
+
+			Agrarism = {
+			}
+			
+			AnCom = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_LIBSOC_1"
+			"FACTION_NAME_LIBSOC_2"
+			"FACTION_NAME_LIBSOC_3"
+			"FACTION_NAME_LIBSOC_4"
+			"FACTION_NAME_LIBSOC_5"
+		}
+
+		color = { 255 0 0 }
+
+		war_impact_on_world_tension = 0.75		
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes 
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			puppet_cost_factor = -0.3
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 7.5
+			navy_intel_to_others = 2.5
+			airforce_intel_to_others = 7.5
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_threshold_factor = -0.5
+		}
+
+		faction_modifiers = {
+
+		}
+
+	}
+	
+	Marxism = {
+
+		types = {
+
+			Leninism = {
+			}
+
+			Ortodox = {
+			}
+
+			Trozkism = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_MARXISM_1"
+			"FACTION_NAME_MARXISM_2"
+			"FACTION_NAME_MARXISM_3"
+			"FACTION_NAME_MARXISM_4"
+			"FACTION_NAME_MARXISM_5"
+		}
+
+		color = { 255 0 0 }
+
+		war_impact_on_world_tension = 0.75	
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes # uses the commie AI behaviour
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			# puppet_cost_factor = -0.6
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 3.5
+			navy_intel_to_others = 6.5
+			airforce_intel_to_others = 7.5
+			embargo_threshold_factor = 0.2
+		}
+
+		faction_modifiers = {
+
+		}
+
+	}
+	
+	RefSoc = {
+
+		types = {
+
+			Romanov = {
+			}
+
+			Syndicalism = {
+			}
+
+			Tehnocraty = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_REFSOC_1"
+			"FACTION_NAME_REFSOC_2"
+			"FACTION_NAME_REFSOC_3"
+			"FACTION_NAME_REFSOC_4"
+			"FACTION_NAME_REFSOC_5"
+		}
+
+		color = { 255 0 0 }
+
+		war_impact_on_world_tension = 0.75
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes 
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			puppet_cost_factor = -0.6
+			civilian_intel_to_others = 12.0
+			army_intel_to_others = 2.5
+			navy_intel_to_others = 5.5
+			airforce_intel_to_others = 7.5
+			embargo_threshold_factor = 0.5
+		}
+
+		faction_modifiers = {
+
+		}
+
+	}
+
+	TotSoc = {
+
+		types = {
+
+			Stalinism = {
+			}
+
+			Maoism = {
+			}
+
+			Strasserism = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_TOTSOC_1"
+			"FACTION_NAME_TOTSOC_2"
+			"FACTION_NAME_TOTSOC_3"
+			"FACTION_NAME_TOTSOC_4"
+			"FACTION_NAME_TOTSOC_5"
+		}
+
+		color = { 255 0 0 }
+
+		war_impact_on_world_tension = 0.75
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes # uses the commie AI behaviour
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			# puppet_cost_factor = -0.3 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 7.5
+			navy_intel_to_others = 12.5
+			airforce_intel_to_others = 7.5
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_threshold_factor = 0.5
+		}
+
+		faction_modifiers = {
+
+		}
+
+	}
+}

@@ -17,17 +17,23 @@ add_ideas = {
 }
 
 set_politics = {
- ruling_party = communism
+ ruling_party = LibSoc
  last_election = "1933.7.1"
  election_frequency= 48
  elections_allowed = no
 }
 
 set_popularities = {
- democratic = 25
- fascism = 25
- communism = 25
-neutrality = 25
+ LeftDem = 5
+ Liberalism = 5
+ RightDem = 5
+ Despotism = 1
+ Monarchy = 2
+ Nationalism = 5
+ LibSoc = 60
+ Marxism =5
+ RefSoc = 9
+ TotSoc = 3
 }
 
 create_country_leader = {
@@ -35,7 +41,7 @@ create_country_leader = {
 	desc = "Julio_Anguita.desc"
 	picture = "gfx/leaders/IEU/Julio_Anguita.dds"
 	expire = "1941.11.21"
-	ideology = anti_revisionism
+	ideology = EuroCom
 	traits = {
 		#
 	}
