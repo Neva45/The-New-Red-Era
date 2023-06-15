@@ -21,7 +21,7 @@ set_politics = {
 
 create_faction = OPD
 add_to_faction = USR
-add_to_faction = PRP
+add_to_faction = PPR
 add_to_faction = IRL
 add_to_faction = IEU
 add_to_faction = GDR
