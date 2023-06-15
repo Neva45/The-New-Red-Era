@@ -30,3 +30,7 @@ USR = {
 	color = rgb { 125  13  24 }
 	color_ui = rgb { 125  13  24 }
 }
+BAF = {
+	color = rgb {	247  242  26 }
+	color_ui = rgb { 247  242  26 }
+}
