@@ -19,6 +19,16 @@ set_politics = {
  elections_allowed = no
 }
 
+create_faction = OPD
+add_to_faction = USR
+add_to_faction = PRP
+add_to_faction = IRL
+add_to_faction = IEU
+add_to_faction = GDR
+add_to_faction = FRC
+add_to_faction = BRI
+add_to_faction = BNL
+
 set_popularities = {
  LeftDem = 5
  Liberalism = 5
