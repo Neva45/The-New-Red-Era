@@ -1,4 +1,4 @@
-capital = 303
+capital = 113
 
 oob = «IRL_2000»
 
