@@ -7,9 +7,6 @@ state={
 	history={
 		owner = PPR
 		victory_points = {
-			9263 5
-		}
-		victory_points = {
 			3295 5
 		}
 		victory_points = {
@@ -20,14 +17,11 @@ state={
 			arms_factory = 2
 			industrial_complex = 1
 			air_base = 2
-			9263 = {
-				naval_base = 1
-			}
 		}
 	}
 
 	provinces={
-		243 279 334 389 3295 3324 6347 9263
+		243 279 3295 3324 6401
 	}
 
 	local_supplies=0.0 
