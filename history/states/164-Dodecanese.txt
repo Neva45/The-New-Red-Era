@@ -1,5 +1,4 @@
-state=
-{
+state={
 	id=164
 	name="STATE_164"
 	manpower = 120000
@@ -21,8 +20,6 @@ state=
 				naval_base = 1
 			}
 		}
-		add_core_of = BAF
-
 
 	}
 

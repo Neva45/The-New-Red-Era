@@ -454,47 +454,47 @@ spriteTypes = {
 		texturefile = "gfx/interface/icon_occupied_territories.dds"
 	}
 
-	spriteTypes = {
+	spriteType = {
 		name = "GFX_ideology_LibSoc_group"
 		texturefile = "gfx/interface/ideologies/LibSoc_group.dds"
 	}
 	
-	spriteTypes = {
+	spriteType = {
 		name = "GFX_ideology_TotSoc_group"
 		texturefile = "gfx/interface/ideologies/TotSoc_group.dds"
 	}
 	
-	spriteTypes = {
+	spriteType = {
 		name = "GFX_ideology_Marxism_group"
 		texturefile = "gfx/interface/ideologies/Marxism_group.dds"
 	}
 	
-	spriteTypes = {
+	spriteType = {
 		name = "GFX_ideology_LeftDem_group"
 		texturefile = "gfx/interface/ideologies/LeftDem_group.dds"
 	}
 	
-	spriteTypes = {
+	spriteType = {
 		name = "GFX_ideology_Liberalism_group"
 		texturefile = "gfx/interface/ideologies/Liberalism_group.dds"
 	}
 	
-	spriteTypes = {
+	spriteType = {
 		name = "GFX_ideology_RightDem_group"
 		texturefile = "gfx/interface/ideologies/RightDem_group.dds"
 	}
 	
-	spriteTypes = {
+	spriteType = {
 		name = "GFX_ideology_Despotism_group"
 		texturefile = "gfx/interface/ideologies/espotism_group.dds"
 	}
 	
-	spriteTypes = {
+	spriteType = {
 		name = "GFX_ideology_Monarchy_group"
 		texturefile = "gfx/interface/ideologies/Monarchy_group.dds"
 	}
 	
-	spriteTypes = {
+	spriteType = {
 		name = "GFX_ideology_Nationalism_group"
 		texturefile = "gfx/interface/ideologies/Nationalism_group.dds"
 	}

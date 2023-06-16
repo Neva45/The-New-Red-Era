@@ -9,7 +9,7 @@ set_technology = {
 set_convoys = 500
 
 add_ideas = {
-	IEU_opd
+	USR_opd
 }
 
 set_politics = {
@@ -28,6 +28,8 @@ add_to_faction = GDR
 add_to_faction = FRC
 add_to_faction = BRI
 add_to_faction = BNL
+add_to_faction = BAF
+add_to_faction = ISR
 
 set_popularities = {
  LeftDem = 5
@@ -37,7 +39,7 @@ set_popularities = {
  Monarchy = 2
  Nationalism = 5
  LibSoc = 5
- Marxism =60
+ Marxism = 60
  RefSoc = 9
  TotSoc = 3
 }

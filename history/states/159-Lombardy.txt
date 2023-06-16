@@ -1,4 +1,3 @@
-
 state = {
 	id = 159
 	name = "STATE_159"
@@ -6,7 +5,7 @@ state = {
 	state_category = metropolis
 
 	history = {
-		owner = ITA
+		owner = ISR
 		victory_points = { #Milano
 			3780 15 
 		}
@@ -19,14 +18,6 @@ state = {
 			industrial_complex = 3
 			air_base = 10
 
-		}
-		add_core_of = ITA
-		add_core_of = LBV
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 7
-				industrial_complex = 4
-			}
 		}
 	}
 

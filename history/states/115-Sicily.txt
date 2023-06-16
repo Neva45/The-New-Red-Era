@@ -1,10 +1,9 @@
-
 state = {
 	id = 115
 	name = "STATE_115"
 
 	history = {
-		owner = ITA
+		owner = ISR
 		victory_points = {
 			10074 20 
 		}
@@ -40,9 +39,6 @@ state = {
 			}
 
 		}
-		add_core_of = ITA
-		add_core_of = TTS
-
 	}
 
 	provinces = {
