@@ -10,9 +10,9 @@ state= {
 
 	history=
 	{
-		owner = DEN
+		owner = DSR
 		victory_points = {
-			6364 3 
+			6235 3 
 		}
 		buildings = {
 			infrastructure = 4
@@ -21,15 +21,12 @@ state= {
 			394 = {
 				naval_base = 3
 			}
-			6364 = {
-				naval_base = 1
-			}
 		}
-		add_core_of = DEN
+		add_core_of = DSR
 	}
 	provinces=
 	{
-316 332 394 399 3206 3277 3341 6235 6364 11251 	}
+316 394 6235}
 
 	local_supplies=0.0 
 }
