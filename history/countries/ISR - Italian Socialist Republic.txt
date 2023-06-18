@@ -35,3 +35,14 @@ set_popularities = {
  RefSoc = 9
  TotSoc = 3
 }
+
+create_country_leader = {
+	name = "Sergio_Cofferati"
+	desc = "Sergio_Cofferati.desc"
+	picture = "gfx/leaders/ISR/Sergio_Cofferati.dds"
+	expire = "1948.1.30"
+	ideology = EuroCom
+	traits = {
+		#
+	}
+}

@@ -36,3 +36,13 @@ set_popularities = {
  TotSoc = 3
 }
 
+create_country_leader = {
+	name = "Branko_Kostic"
+	desc = "Branko_Kostic.desc"
+	picture = "gfx/leaders/BAF/Branko_Kostic.dds"
+	expire = "1939.8.28"
+	ideology = EuroCom
+	traits = {
+		#
+	}
+}

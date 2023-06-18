@@ -30,6 +30,7 @@ add_to_faction = BRI
 add_to_faction = BNL
 add_to_faction = BAF
 add_to_faction = ISR
+add_to_faction = HPR
 
 set_popularities = {
  LeftDem = 5
@@ -42,4 +43,15 @@ set_popularities = {
  Marxism = 60
  RefSoc = 9
  TotSoc = 3
+}
+
+create_country_leader = {
+	name = "Grigory_Romanov"
+	desc = "Grigory_Romanov.desc"
+	picture = "gfx/leaders/USR/Grigory_Romanov.dds"
+	expire = "1923.2.7"
+	ideology = Romanov
+	traits = {
+		#
+	}
 }
