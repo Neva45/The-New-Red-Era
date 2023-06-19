@@ -17,21 +17,21 @@ add_ideas = {
 }
 
 set_politics = {
- ruling_party = Marxism
+ ruling_party = RefSoc
  last_election = "1933.7.1"
  election_frequency= 48
  elections_allowed = no
 }
 
 set_popularities = {
- LeftDem = 5
- Liberalism = 5
- RightDem = 5
- Despotism = 1
- Monarchy = 2
+ LeftDem = 1
+ Liberalism = 1
+ RightDem = 1
+ Despotism = 2
+ Monarchy = 1
  Nationalism = 5
- LibSoc = 5
- Marxism =60
- RefSoc = 9
- TotSoc = 3
+ LibSoc = 15
+ Marxism = 10
+ RefSoc = 52
+ TotSoc = 10
 }
