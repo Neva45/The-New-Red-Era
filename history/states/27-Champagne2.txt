@@ -1,15 +1,14 @@
-state={
-	id=27
-	name="STATE_27" # Bourgogne
-	manpower = 1370800
+state = {
+	id = 27
+	name = "STATE_27" # Bourgogne
+	manpower = 1	
+	resources = {
+		aluminium = 11 # was: 18
+	}
 	
 	state_category = city
-	
-	resources={
-		aluminium=11 # was: 18
-	}
 
-	history={
+	history = {
 		owner = FRC
 		victory_points = {
 			3652 5 
@@ -19,11 +18,12 @@ state={
 			industrial_complex = 2
 			air_base = 2
 		}
+		add_core_of = FRC
 	}
 
-	provinces={
+	provinces = {
 		641 648 667 680 817 3506 3650 3652 3669 3681 9625 9644 11628 11794 
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

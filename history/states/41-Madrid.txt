@@ -1,11 +1,14 @@
-state={
-	id=41
-	name="STATE_41"
-	resources={
-		aluminium=1.000
-	}
+state = {
+	id = 41
+	name = "STATE_41"
+	manpower = 1
+	resources = {
+		aluminium = 1.000
+	}	
 
-	history={
+	state_category = city
+
+	history = {
 		owner = IEU
 		victory_points = {
 			3938 30 
@@ -15,17 +18,13 @@ state={
 			arms_factory = 2
 			industrial_complex = 2
 			air_base = 6
-
 		}
-
+		add_core_of = IEU
 	}
 
-	provinces={
-		 977 3794 3938 9767 
+	provinces = {
+		977 3794 3938 9767 
 	}
-	manpower=2064659
-	buildings_max_level_factor=1.000
-	state_category=city
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

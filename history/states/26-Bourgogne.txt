@@ -1,12 +1,12 @@
 
-state={
-	id=26
-	name="STATE_26" # Auveregne
-	manpower = 877800
+state = {
+	id = 26
+	name = "STATE_26" # Auveregne
+	manpower = 1
 	
 	state_category = town
 
-	history={
+	history = {
 		owner = FRC
 		victory_points = {
 			3594 3 
@@ -14,13 +14,13 @@ state={
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-
 		}
+		add_core_of = FRC
 	}
 
-	provinces={
+	provinces = {
 		590 769 3594 3754 6644 6773 6789 9593 9607 9609 9732 9748 11576 
 	}
 
-	local_supplies=6.0 
+	local_supplies = 6.0 
 }

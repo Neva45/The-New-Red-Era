@@ -42,3 +42,7 @@ HPR = {
 	color = rgb { 0 128 0 }
 	color_ui = rgb { 0 128 0 }
 }
+DNM = {
+	color = rgb { 153  116  93 }
+	color_ui = rgb { 153  116  93 }
+}

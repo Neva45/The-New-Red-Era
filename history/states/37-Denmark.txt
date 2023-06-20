@@ -1,13 +1,12 @@
-state= {
-	id=37
-	name="STATE_37"
+state = {
+	id = 37
+	name = "STATE_37"
 	manpower = 1645542
 
 	state_category = town
 
-	history=
-	{
-		owner = DSR
+	history = {
+		owner = DNM
 		victory_points = {
 			6393 5
 		}
@@ -15,19 +14,13 @@ state= {
 			infrastructure = 4
 			industrial_complex = 4
 			air_base = 2
-			6361 = {
-				naval_base = 1
-			}
-			6393 = {
-				naval_base = 2
-			}
 		}
-		add_core_of = DSR
+		add_core_of = DNM
 	}
 
-	provinces= {
+	provinces = {
 		3260 3305 6361 6393 
 	}
 
-	local_supplies=0.0
+	local_supplies = 0.0
 }

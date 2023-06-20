@@ -1,11 +1,11 @@
-state={
-	id=109
-	name="STATE_109" # Croatia
-	manpower = 2224400
+state = {
+	id = 109
+	name = "STATE_109" # Croatia
+	manpower = 1
 	
 	state_category = large_town
 
-	history={
+	history = {
 		owner = BAF
 		victory_points = {
 			11581 3 
@@ -14,11 +14,12 @@ state={
 			infrastructure = 3
 			industrial_complex = 3
 		}
+		add_core_of = BAF
 	}
 
-	provinces={
+	provinces = {
 		624 3592 3596 3627 6647 9595 9611 11577 11580 11581 11594
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

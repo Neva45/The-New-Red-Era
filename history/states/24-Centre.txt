@@ -1,12 +1,11 @@
-state={
-	id=24
-	name="STATE_24"
-	manpower = 1546300
-	
+state = {
+	id = 24
+	name = "STATE_24"
+	manpower = 1
 	
 	state_category = large_town
 
-	history={
+	history = {
 		owner = FRC
 		victory_points = {
 			3671 10
@@ -17,13 +16,13 @@ state={
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
-
 		}
+		add_core_of = FRC
 	}
 
-	provinces={
+	provinces = {
 		512 3493 3671 6518 6533 6547 6688 9492 9507 11631 
 	}
 
-	local_supplies=15.0 
+	local_supplies = 15.0 
 }

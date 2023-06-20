@@ -1,29 +1,26 @@
-state={
-	id=965
-	name="STATE_965"
-	manpower=730243
+state = {
+	id = 965
+	name = "STATE_965"
+	manpower = 1
 	
-	state_category=large_city
+	state_category = large_city
 	
-	history={
-		owner=DSR
-		victory_points={
+	history = {
+		owner = DSR
+		victory_points = {
 			3325 10
 		}
-		buildings={
-		arms_factory=2
-		industrial_complex=4
-		infrastructure = 4
-		3325 = {
-				naval_base = 4
-			}
-		air_base = 6
+		buildings = {
+		    arms_factory = 2
+		    industrial_complex = 4
+		    infrastructure = 4
+		    air_base = 6
 		}
-		add_core_of = DSR
+		add_core_of = DNM
 	}
 	
-	provinces={
-		3325 3374 11251 332 3277 399
+	provinces = {
+		332 399 3277 3325 3374 11251
 	}
 	
 	local_supplies = 10.0
