@@ -1,0 +1,6 @@
+﻿###
+### GENERAL
+###
+
+add_namespace = politics
+
