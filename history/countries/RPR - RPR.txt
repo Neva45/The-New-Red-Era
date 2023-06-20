@@ -1,8 +1,7 @@
-capital = 107
+capital = 46
 
-oob = «BAF_2000»
+oob = «RPR_2000»
 
-set_national_unity = 0.5
 
 set_research_slots = 3
 
@@ -15,8 +14,6 @@ set_convoys = 140
 add_ideas = {
 	USR_opd
 }
-
-puppet = RPR
 
 set_politics = {
  ruling_party = RefSoc
@@ -38,13 +35,3 @@ set_popularities = {
  TotSoc = 3
 }
 
-create_country_leader = {
-	name = "Branko_Kostic"
-	desc = "Branko_Kostic.desc"
-	picture = "gfx/leaders/BAF/Branko_Kostic.dds"
-	expire = "1939.8.28"
-	ideology = EuroCom
-	traits = {
-		#
-	}
-}
