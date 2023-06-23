@@ -1,32 +1,30 @@
-state={
-	id=121
-	name="STATE_121" # Lothian
-	manpower = 1431624
+state = {
+	id = 121
+	name = "STATE_121" # Lothian
+	manpower = 1
 	
 	state_category = city
 
-	history={
+	history = {
 		owner = BRI
 		victory_points = { 
-                                                                         9392 10 
-                                          }
+            9392 10 
+        }
 		victory_points = { 
-                                                                         6300 1 
-                                           }
+            6300 1 
+        }
 		buildings = {
 			infrastructure = 4 #was: 7
 			industrial_complex = 1
 			dockyard = 1
 			air_base = 3
-			6300 = {
-				naval_base = 5
-			}
 		}
+		add_core_of = BRI
 	}
 
-	provinces={
+	provinces = {
 		159 6300 9383 9392 
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

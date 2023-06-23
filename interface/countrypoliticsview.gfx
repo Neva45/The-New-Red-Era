@@ -457,6 +457,11 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_ideology_LibSoc_group"
 		texturefile = "gfx/interface/ideologies/LibSoc_group.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_ideology_RefSoc_group"
+		texturefile = "gfx/interface/ideologies/RefSoc_group.dds"
 	}
 	
 	spriteType = {

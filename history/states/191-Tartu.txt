@@ -1,9 +1,11 @@
+state = {
+	id = 191
+	name = "STATE_191"
+	manpower = 1
 
-state={
-	id=191
-	name="STATE_191"
+	state_category=rural
 
-	history={
+	history = {
 		owner = USR
 		victory_points = {
 			9221 1 
@@ -13,17 +15,13 @@ state={
 		}
 		buildings = {
 			infrastructure = 3 #was: 5
-
 		}
 		add_core_of = USR
-
 	}
 
-	provinces={
+	provinces = {
 		592 6178 6408 9221 9485 
 	}
-	manpower=225840
-	buildings_max_level_factor=1.000
-	local_supplies=0.0 
-	state_category=rural
+
+	local_supplies = 0.0
 }

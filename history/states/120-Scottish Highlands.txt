@@ -1,17 +1,16 @@
-state= {
-	id=120
-	name="STATE_120"
-	manpower = 265873
+state = {
+	id = 120
+	name = "STATE_120"
+	manpower = 1
+	resources = {
+		chromium = 1 # was: 2
+		tungsten = 16 # was: 22
+		aluminium = 9 # was: 12
+	}
 	
 	state_category = rural
 
-	resources={
-		chromium=1 # was: 2
-		tungsten=16 # was: 22
-		aluminium=9 # was: 12
-	}
-
-	history= {
+	history = {
 		owner = BRI
 		victory_points = {
 			284 1 #Oban
@@ -27,9 +26,9 @@ state= {
 		}
 	}
 
-	provinces={
-                                          131 3159 3178 6046 6104 6205 9075 9090 11266 13268 	
-                     }
+	provinces = {
+        131 3159 3178 6046 6104 6205 9075 9090 11266 13268 	
+    }
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

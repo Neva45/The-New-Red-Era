@@ -1,12 +1,11 @@
-
-state={
-	id=167
-	name="STATE_167"
-	manpower = 1979294
+state = {
+	id = 167
+	name = "STATE_167"
+	manpower = 1
 	
 	state_category = large_town
 
-	history={
+	history = {
 		owner = IEU
 		victory_points = {
 			6906 10
@@ -15,15 +14,13 @@ state={
 			infrastructure = 3 #was: 6
 			dockyard = 1
 			air_base = 3
-			6906 = {
-				naval_base = 3
-			}
 		}
+		add_core_of = IEU
 	}
 
-	provinces={
-		 3799 6856 6906 6959 
+	provinces = {
+		3799 6856 6906 6959 
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

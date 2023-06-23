@@ -8,9 +8,9 @@ bookmarks = {
 	
 		IEU = {
 			history = IEU_BLITZKRIEG_DESC
-			ideology = communism
+			ideology = LibSoc
 			ideas={
-				IEU_opd
+				USR_opd
 			}
 			focuses = {
 				#
@@ -18,9 +18,9 @@ bookmarks = {
 		}
 		IRL = {
 			history = IRL_BLITZKRIEG_DESC
-			ideology = communism
+			ideology = LibSoc
 			ideas = {
-				IEU_opd
+				USR_opd
 			}
 			focuses = {
 				#
@@ -28,9 +28,9 @@ bookmarks = {
 		}
 		FRC = {
 			history = FRC_BLITZKRIEG_DESC
-			ideology = communism
+			ideology = LibSoc
 			ideas = {
-				IEU_opd
+				USR_opd
 			}
 			focuses = {
 				#
@@ -39,9 +39,9 @@ bookmarks = {
 		}
 		BNL = {
 			history = BNL_BLITZKRIEG_DESC
-			ideology = communism
+			ideology = LibSoc
 			ideas = {
-				IEU_opd
+				USR_opd
 			}
 			focuses = {
 				#
@@ -49,9 +49,9 @@ bookmarks = {
 		}
 		BRI = {
 			history = BRI_BLITZKRIEG_DESC
-			ideology = communism
+			ideology = LibSoc
 			ideas={
-				IEU_opd
+				USR_opd
 			}
 			focuses = {
 				#
@@ -84,6 +84,10 @@ bookmarks = {
 				SOV_father_of_nations
 				SOV_patriarch_of_all_russia
 			}
+		}
+		
+		"---"={
+			history = "OTHER_BLITZKRIEG_DESC"
 		}
 
 	}

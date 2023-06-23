@@ -1,15 +1,15 @@
 state = {
 	id = 158
 	name = "STATE_158"
-	manpower = 4765476
-	
-	state_category = metropolis
+	manpower = 1
 	resources = {
 		steel = 24 # was: 40
 		aluminium = 16 # was: 28
 		chromium = 2 # was: 4
 		tungsten = 1 # was: 2
 	}
+	
+	state_category = metropolis
 
 	history = {
 		owner = ISR
@@ -25,10 +25,8 @@ state = {
 			industrial_complex = 1
 			dockyard = 2
 			air_base = 8
-			6788 = {
-				naval_base = 8
-			}
 		}
+		add_core_of = ISR
 	}
 
 	provinces = {

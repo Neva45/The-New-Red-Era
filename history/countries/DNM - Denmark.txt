@@ -1,4 +1,4 @@
-capital = 
+capital = 964
 
 oob = «DNM_2000»
 

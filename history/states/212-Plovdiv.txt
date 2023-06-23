@@ -1,15 +1,14 @@
-state={
-	id=212
-	name="STATE_212"
-	manpower = 1814936
+state = {
+	id = 212
+	name = "STATE_212"
+	manpower = 1
+	resources = {
+		chromium = 1
+	}
 	
 	state_category = large_town
 
-	resources={
-		chromium = 1
-	}
-
-	history={
+	history = {
 		owner = BAF
 		victory_points = { #Plovdiv
 			6923 10
@@ -26,11 +25,12 @@ state={
 			industrial_complex =2
 			air_base = 2
 		}
+		add_core_of = BAF
 	}
 
-	provinces={
+	provinces = {
 		878 893 3937 6814 6857 6923 6952 6982 9818 9862 11813 
 	}
 
-	local_supplies=5.0 
+	local_supplies = 5.0 
 }

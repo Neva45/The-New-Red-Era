@@ -1,7 +1,8 @@
 capital = 46
 
-oob = «RPR_2000»
+oob = «SRR_2000»
 
+set_national_unity = 0.5
 
 set_research_slots = 3
 
@@ -29,9 +30,9 @@ set_popularities = {
  Despotism = 1
  Monarchy = 2
  Nationalism = 5
- LibSoc = 60
+ LibSoc = 9
  Marxism =5
- RefSoc = 9
+ RefSoc = 60
  TotSoc = 3
 }
 

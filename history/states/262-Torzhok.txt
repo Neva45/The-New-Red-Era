@@ -1,27 +1,23 @@
-
 state = {
 	id = 262
 	name = "STATE_262" # Pechora
-	manpower = 21795
-	
-	state_category = rural
-	
+	manpower = 1
 	resources = {
 		oil = 7 # was: 8
 	}
+	
+	state_category = rural	
 
 	history = {
 		owner = USR
 		buildings = {
 			infrastructure = 1
-
 		}
 		add_core_of = USR
-		add_core_of = KOM
 	}
 
 	provinces = {
-		 154 6016 6177 6538 9099 9121 9230 10723 11182 
+		154 6016 6177 6538 9099 9121 9230 10723 11182 
 	}
 
 	local_supplies = 0.0 

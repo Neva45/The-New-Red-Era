@@ -1,27 +1,25 @@
-state={
-	id=170
-	name="STATE_170"
-	resources={
-		tungsten=4.000
+state = {
+	id = 170
+	name = "STATE_170"
+	manpower = 1
+	resources = {
+		tungsten = 4.000
 	}
+	
+	state_category=town
 
-	history={
+	history = {
 		owner = IEU
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
-
 		}
-		add_core_of = SPR
-
+		add_core_of = IEU
 	}
 
-	provinces={
-		 985 6866 9839 9877 9917 9925 11756 11780 13230 
+	provinces = {
+		985 6866 9839 9877 9917 9925 11756 11780 13230 
 	}
-	manpower=1417652
-	buildings_max_level_factor=1.000
-	state_category=town
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

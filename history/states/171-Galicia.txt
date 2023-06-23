@@ -1,11 +1,11 @@
-state={
-	id=171
-	name="STATE_171"
-	manpower = 2295085
+state = {
+	id = 171
+	name = "STATE_171"
+	manpower = 1
 	
 	state_category = city
 
-	history={
+	history = {
 		owner = IEU
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -13,11 +13,12 @@ state={
 			arms_factory = 1
 			air_base = 2
 		}
+		add_core_of = IEU
 	}
 
-	provinces={
+	provinces = {
 		729 3761 6764 11677 11692 
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

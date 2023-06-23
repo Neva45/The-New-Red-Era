@@ -1,16 +1,15 @@
-state= {
-	id=122
-	name="STATE_122"
-	manpower = 2309230
+state = {
+	id = 122
+	name = "STATE_122"
+	manpower = 2	
+	resources = {
+		steel = 11 # was: 16
+		aluminium = 3 # was: 4
+	}
 	
 	state_category = city
-	
-	resources={
-		steel=11 # was: 16
-		aluminium=3 # was: 4
-	}
 
-	history={
+	history = {
 		owner = BRI
 		victory_points = {
 			407 3 #Swansea
@@ -18,19 +17,16 @@ state= {
 		victory_points = {
 			377 5 
 		}
-
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-			377 = {
-				naval_base = 3
-			}
 		}
+		add_core_of = BRI
 	}
 
-	provinces={
-                                        377 407 	
-                     }
+	provinces = {
+        377 407 	
+    }
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

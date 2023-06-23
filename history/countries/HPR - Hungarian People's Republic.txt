@@ -24,14 +24,14 @@ set_politics = {
 }
 
 set_popularities = {
- LeftDem = 1
- Liberalism = 1
- RightDem = 1
- Despotism = 2
- Monarchy = 1
+ LeftDem = 5
+ Liberalism = 5
+ RightDem = 5
+ Despotism = 1
+ Monarchy = 2
  Nationalism = 5
- LibSoc = 15
- Marxism = 10
- RefSoc = 52
- TotSoc = 10
+ LibSoc = 9
+ Marxism =5
+ RefSoc = 60
+ TotSoc = 3
 }

@@ -34,7 +34,7 @@ BAF = {
 	color = rgb { 247  242  26 }
 	color_ui = rgb { 247  242  26 }
 }
-RPR = {
+SRR = {
 	color = rgb { 247  242  26 }
 	color_ui = rgb { 247  242  26 }
 }
