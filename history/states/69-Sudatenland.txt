@@ -9,7 +9,7 @@ state = {
 	state_category = town
 
 	history = {
-		owner = 
+		owner = CSS
 		victory_points = {
 			3585 3
 		}
@@ -21,11 +21,11 @@ state = {
 			industrial_complex = 2
 			anti_air_building = 1
 		}
-		add_core_of = 
+		add_core_of = CSS
 	}
 	provinces = {
-        424 469 543 557 3418 3585 5283 6470 7857 9555 11401 11414 11432 11525 
-    }
+                                          424 469 543 557 3418 3585 5283 6470 7857 9555 11401 11414 11432 11525 
+                     }
 
 	local_supplies = 0.0 
 }

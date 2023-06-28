@@ -1,0 +1,23 @@
+ideas = {
+
+	country = {
+		USR_opd = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			picture = USR_opd
+			
+			modifier = {
+				political_power_gain = 1
+			}
+		}
+	}
+}

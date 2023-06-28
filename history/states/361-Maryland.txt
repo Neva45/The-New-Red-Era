@@ -1,13 +1,12 @@
-
-state={
-	id=361
-	name="STATE_361"
-	manpower = 2118394
+state = {
+	id = 361
+	name = "STATE_361"
+	manpower = 1
 	
 	state_category = city
 
-	history={
-		owner = USA
+	history = {
+		owner = 
 		victory_points = {
 			3957 40 
 		}
@@ -19,22 +18,13 @@ state={
 			industrial_complex = 5
 			dockyard = 1
 			air_base = 6
-			6984 = {
-				naval_base = 2
-
-			}
-			3957 = {
-				naval_base = 1
-
-			}
 		}
-		add_core_of = USA
-
+		add_core_of = 
 	}
 
-	provinces={
+	provinces = {
 		3957 6823 6892 6929 6984 9758 9786 11892 
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

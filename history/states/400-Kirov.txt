@@ -1,8 +1,7 @@
-
 state = {
 	id = 400
 	name = "STATE_400"
-	manpower = 2115475
+	manpower = 1
 	resources = {
 		aluminium = 14 # was: 20
 	}
@@ -11,13 +10,13 @@ state = {
 
 	history = {
 		owner = USR
+		victory_points = {
+			6124 1
+		}
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = USR
-		victory_points = {
-			6124 1
-		}
 	}
 
 	provinces = {

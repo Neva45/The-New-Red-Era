@@ -6,7 +6,7 @@ state = {
 	state_category = rural
 	
 	history = {
-		owner = 
+		owner = CSS
 		victory_points = {
 			3583 5
 		}
@@ -14,7 +14,7 @@ state = {
 			infrastructure = 4
 			arms_factory = 1
 		}
-		add_core_of = 
+		add_core_of = CSS
 	}
 	provinces = {
 		421 3414 3583 6485

@@ -9,7 +9,7 @@ state = {
 	state_category = large_city
 	
 	history = {
-		owner = 
+		owner = CSS
 		victory_points = { 
 			11542 30 
 		}
@@ -26,7 +26,7 @@ state = {
 			anti_air_building = 5
 			air_base = 5
 		}
-		add_core_of = 
+		add_core_of = CSS
 	}
 
 	provinces = {

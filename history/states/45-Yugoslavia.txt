@@ -8,8 +8,8 @@ state = {
 	history = {
 		owner = BAF
 		victory_points = { 
-            619 3 
-        }
+                                                                 619 3 
+                                          }
 		buildings = {
 			infrastructure = 3
 		}

@@ -31,6 +31,7 @@ add_to_faction = BNL
 add_to_faction = BAF
 add_to_faction = ISR
 add_to_faction = HPR
+add_to_faction = CSS
 
 set_popularities = {
  LeftDem = 1

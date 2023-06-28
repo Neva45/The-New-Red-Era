@@ -50,3 +50,7 @@ DNM = {
 	color = rgb { 153  116  93 }
 	color_ui = rgb { 153  116  93 }
 }
+CSS = {
+	color = rgb { 130 204 236 }
+	color_ui = rgb { 130 204 236 }
+}
