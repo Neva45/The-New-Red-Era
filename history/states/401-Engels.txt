@@ -1,25 +1,23 @@
-
 state = {
 	id = 401
 	name = "STATE_401" #Balakovo
-	manpower = 309530
-	
-	state_category = rural
-	
+	manpower = 1	
 	resources = {
 		steel = 10 # was: 40, then 24 but split
 		tungsten = 10 # was: 34, then 16 but split
 	}
+	
+	state_category = rural
 
 	history = {
 		owner = USR
+		victory_points = {
+			6502 1
+		}
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = USR
-		victory_points = {
-			6502 1
-		}
 	}
 
 	provinces = {

@@ -1,13 +1,13 @@
-
 state = {
 	id = 563
 	name = "STATE_563" # Chita
-	manpower = 1044310
-	state_category = rural
+	manpower = 1
 	resources = {
-		steel=9 # was: 12
-		chromium=8 # was: 10
+		steel = 9 # was: 12
+		chromium = 8 # was: 10
 	}
+
+	state_category = rural
 
 	history = {
 		owner = USR
@@ -19,7 +19,6 @@ state = {
 			air_base = 2
 		}
 		add_core_of = USR
-		add_core_of = FER
 	}
 
 	provinces = {

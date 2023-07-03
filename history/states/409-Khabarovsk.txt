@@ -1,8 +1,7 @@
-
 state = {
 	id = 409
 	name = "STATE_409"
-	manpower = 295605
+	manpower = 1
 	resources = {
 		chromium = 9 # was: 12
 	}
@@ -18,13 +17,8 @@ state = {
 			infrastructure = 2
 			industrial_complex = 1
 			air_base = 4
-			9604 = {
-				naval_base = 1
-			}
 		}
 		add_core_of = USR
-		add_core_of = FER
-		add_core_of = VLA
 	}
 
 	provinces = {
