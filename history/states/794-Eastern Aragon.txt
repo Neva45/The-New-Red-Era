@@ -1,21 +1,21 @@
-state={
-	id=794
-	name="STATE_794"
+state = {
+	id = 794
+	name = "STATE_794"
+	manpower = 1
+	
+	state_category = pastoral
 
-	history={
+	history = {
 		owner = IEU
 		buildings = {
 			infrastructure = 3 #was: 6
-
 		}
+		add_core_of = IEU
 	}
 
-	provinces={
-		 899 915 11793 11819 11821 11838 13225 
+	provinces = {
+		899 915 11793 11819 11821 11838 13225 
 	}
-	manpower=387366
-	buildings_max_level_factor=1.000
-	state_category=pastoral
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

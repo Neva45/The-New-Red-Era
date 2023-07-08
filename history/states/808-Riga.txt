@@ -1,12 +1,14 @@
-
-state={
-	id=808
-	name="STATE_808"
-	resources={
-		steel=1.000
+state = {
+	id = 808
+	name = "STATE_808"
+	manpower = 1
+	resources = {
+		steel = 1
 	}
 
-	history={
+	state_category = city
+
+	history = {
 		owner = USR
 		victory_points = {
 			9340 5 
@@ -16,19 +18,13 @@ state={
 			arms_factory = 1
 			industrial_complex = 4
 			air_base = 3
-			9340 = {
-				naval_base = 3
-			}
-
 		}
 		add_core_of = USR
-
 	}
 
-	provinces={
+	provinces = {
 		9240 9340 10323 
 	}
-	manpower=420250
-	buildings_max_level_factor=1.000
-	state_category=city
+	
+	local_supplies = 0.0 
 }

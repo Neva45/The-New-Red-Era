@@ -1,29 +1,26 @@
-
 state = {
 	id = 829
 	name = "STATE_829" #Volga Germany
-	manpower = 618530
-	
-	state_category = rural
-	
+	manpower = 1
 	resources = {
 		steel = 14 # was: 40
 		tungsten = 6 # was: 34
 	}
+	
+	state_category = rural
 
 	history = {
 		owner = USR
-		buildings = {
-			infrastructure = 3
-		}
-		add_core_of = USR
-		add_core_of = VGE
 		victory_points = {
 			11523 2
 		}
 		victory_points = {
 			9432 1
 		}
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = USR
 	}
 
 	provinces = {

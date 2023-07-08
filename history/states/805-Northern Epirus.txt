@@ -1,18 +1,15 @@
-state={
-	id=805
-	name="STATE_805"
-	provinces={
-		914 13234 13235
-	}
-	manpower = 262200
-	resources={
-		#chromium=45 # was: 84
-		#steel = 10 # was: 20
+state = {
+	id = 805
+	name = "STATE_805"
+	manpower = 1
+	resources = {
+		chromium = 84
+		steel = 20
 	}
 	
 	state_category = pastoral
 
-	history= {
+	history = {
 		owner = BAF
 		victory_points = {
 			914 1
@@ -20,9 +17,12 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
-
-
+		add_core_of = BAF
+	}
+	
+	provinces = {
+		914 13234 13235
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

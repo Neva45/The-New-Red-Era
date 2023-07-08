@@ -1,20 +1,20 @@
-state={
-	id=941
-	name="STATE_941"
-	manpower=1
+state = {
+	id = 941
+	name = "STATE_941"
+	manpower = 1
 
-	state_category=city
+	state_category = city
 
-	history={
+	history = {
 		owner = IEU
 		buildings = {
 
 		}
 	}
 
-	provinces={
-		   857 884 3859 3887 11766
+	provinces = {
+		857 884 3859 3887 11766
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

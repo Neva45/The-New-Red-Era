@@ -1,11 +1,11 @@
-state={
-	id=935
-	name="STATE_935"
-	manpower=1
+state = {
+	id = 935
+	name = "STATE_935"
+	manpower = 1
 
-	state_category=city
+	state_category = city
 
-	history={
+	history = {
 		owner = IEU
 		victory_points = {
 			6927 1
@@ -15,9 +15,9 @@ state={
 		}
 	}
 
-	provinces={
-		   6927 9824 11779
+	provinces = {
+		6927 9824 11779
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

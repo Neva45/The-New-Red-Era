@@ -1,15 +1,12 @@
-state={
-	id=798
-	name="STATE_798"
-	provinces={
-		919 3807 3862 3964 11826 11844 
-	}
-	manpower = 531172
+state = {
+	id = 798
+	name = "STATE_798"
+	manpower = 1
 	
 	state_category = rural
-
-	history= {
-		owner = TUR
+	
+	history = {
+		owner = 
 		victory_points = {
 			3862 3
 		}
@@ -19,8 +16,12 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = TUR
+		add_core_of = 
 	}
 
-	local_supplies=0.0 
+	provinces = {
+		919 3807 3862 3964 11826 11844 
+	}
+
+	local_supplies = 0.0 
 }

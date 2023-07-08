@@ -1,21 +1,21 @@
-state=
-{
-	id=625
-	name="STATE_625"
-	manpower = 1138724
+state = {
+	id = 625
+	name = "STATE_625"
+	manpower = 1
 	
 	state_category = rural
-	history=
-	{
-		owner = PHI
+
+	history = {
+		owner = 
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = PHI
+		add_core_of = 
 	}
-	provinces={
+
+	provinces = {
 		1224 1311 1340 4269 4373 
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

@@ -1,29 +1,22 @@
-
 state = {
 	id = 825
 	name = "STATE_825" # Nenets
-	manpower = 21795
-	
-	state_category = rural
-	
+	manpower = 1
 	resources = {
 		oil = 7 # was: 8
 	}
+	
+	state_category = rural
 
 	history = {
+		owner = USR
 		victory_points = {
 			105 1 
 		}
-		owner = USR
 		buildings = {
 			infrastructure = 1
-			12530 = {
-				naval_base = 1
-			}
-
 		}
 		add_core_of = USR
-		add_core_of = NEN
 	}
 
 	provinces = {

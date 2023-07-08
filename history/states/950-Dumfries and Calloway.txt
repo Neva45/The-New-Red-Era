@@ -1,11 +1,11 @@
-state={
-	id=950
-	name="STATE_950"
-	manpower=1
+state = {
+	id = 950
+	name = "STATE_950"
+	manpower = 1
 
-	state_category=city
+	state_category = city
 
-	history={
+	history = {
 		owner = BRI
 		victory_points = {
 			11218 1 #Dumfries
@@ -15,9 +15,9 @@ state={
 		}
 	}
 
-	provinces={
-		      6350 9350 11218
+	provinces = {
+		6350 9350 11218
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

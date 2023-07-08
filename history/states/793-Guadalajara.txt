@@ -1,23 +1,22 @@
-state={
-	id=793
-	name="STATE_793"
+state = {
+	id = 793
+	name = "STATE_793"
+	manpower = 1
+	
+	state_category = rural
 
-	history={
+	history = {
 		owner = IEU
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
-
 		}
-
+		add_core_of = IEU
 	}
 
-	provinces={
-		 3858 6841 6993 9785 9933 
+	provinces = {
+		3858 6841 6993 9785 9933 
 	}
-	manpower=527697
-	buildings_max_level_factor=1.000
-	state_category=rural
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

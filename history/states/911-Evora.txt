@@ -1,22 +1,23 @@
-state={
-	id=911
-	name="STATE_911"
-	manpower=1
+state = {
+	id = 911
+	name = "STATE_911"
+	manpower = 1
 
-	state_category=city
+	state_category = city
 
-	history={
+	history = {
 		owner = IEU
 		victory_points = {
 			
 		}
 		buildings = {
+
 		}
 	}
 
-	provinces={
+	provinces = {
 		3846 3886 6986 9869
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

@@ -1,18 +1,22 @@
 state = {
-	id = 860
-	name = "STATE_860"
+	id = 967
+	name = "STATE_967"
 	manpower = 1
-
+	
 	state_category = rural
 	
 	history = {
-		owner = 
-		add_core_of = 
+		owner = DNM
+		buildings = {
+			
+		}
+	    add_core_of = DNM
 	}
 
 	provinces = {
-		7683 7807 7810 10534 10715 12600 
+		332 399
 	}
-	
+
 	local_supplies = 0.0
 }
+	

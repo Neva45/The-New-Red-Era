@@ -1,8 +1,7 @@
-
 state = {
 	id = 878
 	name = "STATE_878" # Khatangsky
-	manpower = 15974
+	manpower = 1
 	
 	state_category = pastoral
 
@@ -12,7 +11,6 @@ state = {
 			infrastructure = 1
 		}
 		add_core_of = USR
-		add_core_of = TAY
 	}
 
 	provinces = {

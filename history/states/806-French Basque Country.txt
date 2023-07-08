@@ -1,23 +1,21 @@
+state = {
+	id = 806
+	name = "STATE_806"
+	manpower = 1
+	
+	state_category = town
 
-state={
-	id=806
-	name="STATE_806"
-
-	history={
+	history = {
 		owner = FRC
 		buildings = {
 			infrastructure = 3 #was: 6
-
 		}
-
+		add_core_of = FRC
 	}
 
-	provinces={
+	provinces = {
 		743 11697 
 	}
-	manpower=280723
-	buildings_max_level_factor=1.000
-	state_category=town
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

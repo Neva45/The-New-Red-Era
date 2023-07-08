@@ -1,10 +1,14 @@
-state={
-	id=791
-	name="STATE_791"
-	resources={
-		tungsten=10.000 #added due to Portugal Setup
+state = {
+	id = 791
+	name = "STATE_791"
+	manpower = 1
+	resources = {
+		tungsten = 10
 	}
-	history={
+	
+	state_category = rural
+
+	history = {
 		owner = IEU
 		victory_points = {
 			11825 3 
@@ -12,16 +16,13 @@ state={
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
-
 		}
+		add_core_of = 
 	}
 
-	provinces={
-		  4024 6936 9846 11825 
+	provinces = {
+		4024 6936 9846 11825 
 	}
-	manpower=713628
-	buildings_max_level_factor=1.000
-	state_category=rural
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }
