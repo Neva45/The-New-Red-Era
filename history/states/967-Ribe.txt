@@ -6,11 +6,11 @@ state = {
 	state_category = rural
 	
 	history = {
-		owner = DNM
+		owner = KOD
 		buildings = {
 			
 		}
-	    add_core_of = DNM
+	                     add_core_of = KOD
 	}
 
 	provinces = {

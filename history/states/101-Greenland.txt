@@ -6,15 +6,15 @@ state = {
 	state_category = wasteland
 	
 	history = {
-		owner = 
+		owner = NAA
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = 
+		add_core_of = NAA
 	}
 	provinces = {
-        10245 10636 12512 13058 13066 	
-    }
+                                          10245 10636 12512 13058 13066 	
+                     }
 
 	local_supplies = 0.0 
 }

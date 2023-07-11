@@ -6,11 +6,11 @@ state = {
 	state_category = pastoral
 
 	history = {
-		owner = 
+		owner = GCN
 		buildings = {
 			
 		}
-		add_core_of = 
+		add_core_of = GCN
 	}
 
 	provinces = {

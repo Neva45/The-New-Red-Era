@@ -13,7 +13,7 @@ set_technology = {
 set_convoys = 140
 
 add_ideas = {
-	USR_opd
+	UOS_opd
 }
 
 puppet = SRR

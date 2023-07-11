@@ -10,7 +10,7 @@ state = {
 	state_category = city
 	
 	history = {
-		owner = IRL
+		owner = ROI
 		victory_points = {
 			285 1 #Wexford
 		}
@@ -26,7 +26,7 @@ state = {
 			industrial_complex = 5
 			air_base = 3
 		}
-		add_core_of = IRL
+		add_core_of = ROI
 	}
 
 	provinces = {

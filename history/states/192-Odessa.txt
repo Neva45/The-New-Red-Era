@@ -1,12 +1,12 @@
 state = {
 	id = 192
 	name = "STATE_192"
-	manpower = 1 #1 8th removed due to Balta-Tiraspol
+	manpower = 1 
 	
 	state_category = city
 
 	history = {
-		owner = USR
+		owner = UOS
 		victory_points = {
 			11670 10 
 		}
@@ -15,11 +15,11 @@ state = {
 			industrial_complex = 1
 			air_base = 6
 		}
-		add_core_of = USR
+		add_core_of = UOS
 	}
 
 	provinces = {
-	    3575 3738 9698 9714 11670 11703 
+	                     3575 3738 9698 9714 11670 11703 
 	}
 
 	local_supplies = 6.0 

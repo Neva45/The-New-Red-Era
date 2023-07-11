@@ -10,7 +10,7 @@ state = {
 	state_category = city
 
 	history = {
-		owner = USR
+		owner = UOS
 		victory_points = {
 			525 25
 		}
@@ -21,7 +21,7 @@ state = {
 			fuel_silo = 1
 			air_base = 8
 		}
-		add_core_of = USR
+		add_core_of = UOS
 	}
 
 	provinces = {

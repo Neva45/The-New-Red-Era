@@ -10,11 +10,11 @@ state = {
 	state_category = pastoral
 
 	history = {
-		owner = USR
+		owner = UOS
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = USR
+		add_core_of = UOS
 	}
 
 	provinces = {

@@ -9,7 +9,7 @@ state = {
 	state_category = city
 
 	history = {
-		owner = IRL
+		owner = ROI
 		victory_points = {
 			3379 5 
 		}
@@ -23,7 +23,7 @@ state = {
 			air_base = 1
 			dockyard = 2
 		}
-		add_core_of = IRL
+		add_core_of = ROI
 	}
 
 	provinces = {

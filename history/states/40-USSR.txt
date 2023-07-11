@@ -6,7 +6,7 @@ state = {
 	state_category = large_town
 
 	history = {
-		owner = USR
+		owner = UOS
 		victory_points = {
 			1794 1
 		}
@@ -14,7 +14,7 @@ state = {
 			infrastructure = 1
 			industrial_complex = 1
 		}
-		add_core_of = USR
+		add_core_of = UOS
 	}
 
 	provinces = {

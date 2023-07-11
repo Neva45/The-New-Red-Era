@@ -3,13 +3,13 @@ state = {
 	name = "STATE_845"
 	manpower = 1
 	resources = {
-		aluminium = 18 # was: 28 #CarloTODO
+		aluminium = 18
 	}
 
 	state_category = large_town
 
 	history = {
-		owner = 
+		owner = SCF
 		victory_points = { 
 			9638 5 
 		}
@@ -21,7 +21,7 @@ state = {
 			arms_factory = 1
 			industrial_complex = 2
 		}
-		add_core_of = 
+		add_core_of = SCF
 	}
 
 	provinces = {

@@ -9,7 +9,7 @@ state = {
 	state_category = metropolis
 	
 	history = {
-		owner = DNM
+		owner = KOD
 		victory_points = {
 			6287 20
 		}
@@ -18,7 +18,7 @@ state = {
 		    industrial_complex = 5
 		    dockyard = 5
 		}
-	    add_core_of = DNM
+	                      add_core_of = KOD
 	}
 
 

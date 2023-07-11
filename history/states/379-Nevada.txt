@@ -11,11 +11,11 @@ state = {
 	state_category = rural
 
 	history = {
-		owner = 
+		owner = FSA
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = 
+		add_core_of = FSA
 	}
 
 	provinces = {

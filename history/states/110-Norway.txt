@@ -9,7 +9,7 @@ state = {
 	state_category = city
 
 	history = {
-		owner = 
+		owner = KON
 		victory_points = {
 			6115 15 
 		}
@@ -20,7 +20,7 @@ state = {
 			dockyard = 1
 			air_base = 4
 		}
-		add_core_of = 
+		add_core_of = KON
 	}
 
 	provinces = {

@@ -1,0 +1,37 @@
+capital = 111
+
+oob = «ROF_2000»
+
+set_national_unity = 0.5
+
+set_research_slots = 3
+
+set_technology = {
+
+}
+
+set_convoys = 140
+
+add_ideas = {
+	
+}
+
+set_politics = {
+ ruling_party = LeftDem
+ last_election = "1933.7.1"
+ election_frequency= 48
+ elections_allowed = no
+}
+
+set_popularities = {
+ LeftDem = 60
+ Liberalism = 5
+ RightDem = 5
+ Despotism = 1
+ Monarchy = 2
+ Nationalism = 5
+ LibSoc = 5
+ Marxism =5
+ RefSoc = 9
+ TotSoc = 3
+}

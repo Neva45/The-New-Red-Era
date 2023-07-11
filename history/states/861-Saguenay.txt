@@ -6,11 +6,11 @@ state = {
 	state_category = pastoral
 	
 	history = {
-		owner = 
+		owner = NFR
 		buildings = {
 			
 		}
-		add_core_of = 
+		add_core_of = NFR
 	}
 
 	provinces = {

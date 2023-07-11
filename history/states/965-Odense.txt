@@ -6,7 +6,7 @@ state = {
 	state_category = large_city
 	
 	history = {
-		owner = DNM
+		owner = KOD
 		victory_points = {
 			3325 10
 		}
@@ -16,7 +16,7 @@ state = {
 		    infrastructure = 4
 		    air_base = 6
 		}
-		add_core_of = DNM
+		add_core_of = KOD
 	}
 	
 	provinces = {

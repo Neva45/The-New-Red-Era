@@ -6,14 +6,14 @@ state = {
 	state_category = wasteland
 
 	history = {
-		owner = USR
+		owner = UOS
 		victory_points = {
 			4800 1 #Oyrot-Tura/Gorno-Altaysk
 		}
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = USR
+		add_core_of = UOS
 	}
 
 	provinces = {

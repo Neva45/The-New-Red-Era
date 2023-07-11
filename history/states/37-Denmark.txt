@@ -6,7 +6,7 @@ state = {
 	state_category = town
 
 	history = {
-		owner = DNM
+		owner = KOD
 		victory_points = {
 			6393 5
 		}
@@ -15,7 +15,7 @@ state = {
 			industrial_complex = 4
 			air_base = 2
 		}
-		add_core_of = DNM
+		add_core_of = KOD
 	}
 
 	provinces = {

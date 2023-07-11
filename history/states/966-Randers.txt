@@ -9,7 +9,7 @@ state = {
 	state_category = rural
 	
 	history = {
-		owner = DNM
+		owner = KOD
 		victory_points = {
 			6364 5
 		}
@@ -18,7 +18,7 @@ state = {
 			industrial_complex = 3
 			air_base = 2
 		}
-	    add_core_of = DNM
+	                     add_core_of = KOD
 	}
 
 	provinces = {

@@ -6,7 +6,7 @@ state = {
 	state_category = town
 
 	history = {
-		owner = IRL
+		owner = ROI
 		victory_points = {
 			7394 5 #Cork
 		}
@@ -17,7 +17,7 @@ state = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 3
 		}
-		add_core_of = IRL
+		add_core_of = ROI
 	}
 
 	provinces = {

@@ -9,7 +9,7 @@ set_technology = {
 set_convoys = 500
 
 add_ideas = {
-	USR_opd
+	UOS_opd
 }
 
 set_politics = {
@@ -20,9 +20,9 @@ set_politics = {
 }
 
 create_faction = OPD
-add_to_faction = USR
+add_to_faction = UOS
 add_to_faction = PPR
-add_to_faction = IRL
+add_to_faction = ROI
 add_to_faction = IEU
 add_to_faction = GDR
 add_to_faction = FRC
@@ -49,7 +49,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Grigory_Romanov"
 	desc = "Grigory_Romanov.desc"
-	picture = "gfx/leaders/USR/Grigory_Romanov.dds"
+	picture = "gfx/leaders/UOS/Grigory_Romanov.dds"
 	expire = "1923.2.7"
 	ideology = Romanov
 	traits = {

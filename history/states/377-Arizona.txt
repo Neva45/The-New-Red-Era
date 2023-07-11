@@ -11,7 +11,7 @@ state = {
 	state_category = rural
 
 	history = {
-		owner = 
+		owner = FSA
 		victory_points = {
 			853 3 
 		}
@@ -20,7 +20,7 @@ state = {
 			industrial_complex = 1
 			air_base = 2
 		}
-		add_core_of = 
+		add_core_of = FSA
 	}
 
 	provinces = {

@@ -9,7 +9,7 @@ state = {
 	state_category=town
 
 	history = {
-		owner = USR
+		owner = UOS
 		victory_points = {
 			9483 3
 		}
@@ -19,7 +19,7 @@ state = {
 		buildings = {
 			infrastructure = 3 #was: 5
 		}
-		add_core_of = USR
+		add_core_of = UOS
 	}
 
 	provinces = {

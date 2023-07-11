@@ -6,7 +6,7 @@ state = {
 	state_category = town
 
 	history = {
-		owner = IRL
+		owner = ROI
 		victory_points = {
 			9303 3 #Galway
 		}
@@ -16,12 +16,12 @@ state = {
 		buildings = {
 			infrastructure = 3 #was: 6
 		}
-		add_core_of = IRL
+		add_core_of = ROI
 	}
 
-	provinces= {
-        3396 9255 9303 9321 9369 11238 11287 11371 	
-    }
+	provinces = {
+                                          3396 9255 9303 9321 9369 11238 11287 11371 	
+                     }
 
 	local_supplies = 13.0 
 }

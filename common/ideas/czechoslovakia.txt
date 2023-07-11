@@ -1,7 +1,7 @@
 ideas = {
 
 	country = {
-		USR_opd = {
+		UOS_opd = {
 			
 			allowed = {
 				always = no
@@ -13,7 +13,7 @@ ideas = {
 
 			removal_cost = -1
 			
-			picture = USR_opd
+			picture = UOS_opd
 			
 			modifier = {
 				political_power_gain = 1

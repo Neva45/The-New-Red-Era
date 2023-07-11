@@ -6,7 +6,7 @@ state = {
 	state_category = rural
 
 	history = {
-		owner = USR
+		owner = UOS
 		victory_points = {
 			3140 1 
 		}
@@ -14,7 +14,7 @@ state = {
 			infrastructure = 2
 			air_base = 1
 		}
-		add_core_of = USR
+		add_core_of = UOS
 	}
 
 	provinces = {

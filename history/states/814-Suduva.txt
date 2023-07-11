@@ -6,7 +6,7 @@ state = {
 	state_category = town
 
 	history = {
-		owner = USR
+		owner = UOS
 		victory_points = {
 			11312 1 #Marijampole
 		}
@@ -16,7 +16,7 @@ state = {
 			industrial_complex = 1
 			air_base = 4
 		}
-		add_core_of = USR
+		add_core_of = UOS
 	}
 
 	provinces = {

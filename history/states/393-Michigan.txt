@@ -10,7 +10,7 @@ state = {
 	state_category = metropolis
 
 	history = {
-		owner = 
+		owner = PAR
 		victory_points = {
 			6710 20 
 		}
@@ -20,7 +20,7 @@ state = {
 			industrial_complex = 6
 			air_base = 4
 		}
-		add_core_of = 
+		add_core_of = PAR
 	}
 
 	provinces = {

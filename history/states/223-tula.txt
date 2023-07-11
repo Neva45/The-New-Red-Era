@@ -6,7 +6,7 @@ state = {
 	state_category = town
 
 	history = {
-		owner = USR
+		owner = UOS
 		victory_points = {
 			6262 3 
 		}
@@ -14,9 +14,9 @@ state = {
 			infrastructure = 3 #was: 5
 			arms_factory = 2
 			air_base = 1
-			synthetic_refinery = 1 #NSB
+			synthetic_refinery = 1 
 		}
-		add_core_of = USR
+		add_core_of = UOS
 	}
 
 	provinces = {

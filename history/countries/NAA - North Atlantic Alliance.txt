@@ -1,6 +1,6 @@
-capital = 964
+capital = 100
 
-oob = «DNM_2000»
+oob = «NAA_2000»
 
 set_national_unity = 0.5
 

@@ -9,7 +9,7 @@ state = {
 	state_category = megalopolis
 
 	history = {
-		owner = 
+		owner = SSA
 		victory_points = {
 			3878 30
 		}
@@ -23,7 +23,7 @@ state = {
 			dockyard = 3
 			air_base = 10
 		}
-		add_core_of = 
+		add_core_of = SSA
 	}
 
 	provinces = {
